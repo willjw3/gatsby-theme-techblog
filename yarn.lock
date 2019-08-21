@@ -1256,10 +1256,10 @@
     "@webassemblyjs/wast-parser" "1.7.11"
     "@xtuc/long" "4.2.1"
 
-"@willjw3/gatsby-theme-techblog@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@willjw3/gatsby-theme-techblog/-/gatsby-theme-techblog-1.2.0.tgz#2c8d33ceffad6432819d9a3f18251086e8db7035"
-  integrity sha512-f33EFeD+taVqJNM6SdM35BvGfPT3qF60R6hI1w0K/oA2ueZH3MUiM1bFMuBLp3gVcWF4amEv8TvF+yHsarqjYg==
+"@willjw3/gatsby-theme-techblog@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@willjw3/gatsby-theme-techblog/-/gatsby-theme-techblog-1.2.1.tgz#9e97e8b3083863a20d69fec5c4de90d457033597"
+  integrity sha512-opJStUQYgYrJfS5wziX+DOvm7hFrqnZlc9RSjmyh3qwXNyj0arXJ6YQyDeXnLDzpQ7+5LJ87rl+8eIls88ixJQ==
   dependencies:
     "@emotion/core" "^10.0.16"
     "@emotion/styled" "^10.0.15"
