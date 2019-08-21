@@ -1,6 +1,5 @@
 p, #logo, #tech {
-    font-family: "Rubik";
-    text-align: center;
+    font-family: "Rubik"; 
 }
 #header {
     display: flex;
