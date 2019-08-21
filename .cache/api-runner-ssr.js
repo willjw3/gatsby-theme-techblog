@@ -15,7 +15,7 @@ var plugins = [{
       options: {"plugins":[],"fonts":["Raleway","Lacquer","Rubik","Helvetica Neue","Helvetica","Arial","sans-serif","source sans pro:300,400,400i,700"]},
     },{
       plugin: require('C:/Users/Will/Desktop/gatsby/demos/techblog/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":["Rubik","source sans pro:300,400,400i,700"],"display":"swap"},
+      options: {"plugins":[],"fonts":["Rubik","Lacquer","source sans pro:300,400,400i,700"],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
